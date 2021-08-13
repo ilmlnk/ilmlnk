@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 Instagram: @ilmlnk
 E-mail: programmer.illia@gmail.com
-Telegram: +380970894434
+Telegram: t.me/ilmlnk
 Facebook: Illia Melnyk
 
 <!---
