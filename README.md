@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ilmlnk
-- 👀 I’m interested in Machine Learning, Deep Learning, Artificial Intelligence and Data Science.
-- 🌱 I’m currently learning Python, algorithms, Python libraries and modules such as NumPy, Scikit, SciPy, matplotlib etc. 
-- 💞️ I’m looking to collaborate on companies which connected with Machine Learning and Robotic development.
+- 👀 I’m interested in Machine Learning, Deep Learning, Artificial Intelligence, Data Science and Big Data.
+- 🌱 I’m currently learning Python, algorithms, Python libraries and modules such as NumPy, Scikit, SciPy, matplotlib etc, Java, Maven, Spring. 
+- 💞️ I’m looking to collaborate on companies which connected with Machine Learning, Robotic development or Big Data engineering.
 - 📫 How to reach me:
 Instagram: @ilmlnk
-E-mail: programmer.illia@gmail.com
+E-mail: ilmlnkcorp@gmail.com
 Telegram: t.me/ilmlnk
 Facebook: Illia Melnyk
 
