@@ -7,6 +7,7 @@ Instagram: @ilmlnk
 E-mail: ilmlnkcorp@gmail.com
 Telegram: t.me/ilmlnk
 Facebook: Illia Melnyk
+Twitter" @i_originality
 
 <!---
 ilmlnk/ilmlnk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
