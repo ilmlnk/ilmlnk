@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilmlnk
 - 👀 I’m interested in Machine Learning, Deep Learning, Artificial Intelligence, Data Science and Big Data.
-- 🌱 I’m currently learning Python, algorithms, Python libraries and modules such as NumPy, Scikit, SciPy, matplotlib etc, Java, Maven, Spring. 
+- 🌱 I’m currently learning Python, algorithms, Python libraries and modules such as NumPy, Scikit, SciPy, matplotlib, Java, Maven, Spring etc. 
 - 💞️ I’m looking to collaborate on companies which connected with Machine Learning, Robotic development or Big Data engineering.
 - 📫 How to reach me:
 Instagram: @ilmlnk
