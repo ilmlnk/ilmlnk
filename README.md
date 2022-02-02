@@ -12,7 +12,7 @@ Open to alternative ways like an internship, trainee position, probation etc.
 
 1. Java 8, Java Core, JavaFX, JDBC, OOP;
 2. SQL (MySQL, PostgreSQL);
-3. Spring, Maven;
+3. Spring, Maven, XML;
 4. Git (GitHub), Linux;
 
 Have basic experience with Python and libraries (pandas, numpy), C/C++, Tableau, HTML/CSS.
@@ -29,13 +29,10 @@ Have intermediate knowledge of data structures and algorithms.
 
 # 📱 Contacts
 
-Telegram - t.me/ilmlnk
-
-Instagram - instagram.com/ilmlnk
-
-LinkedIn - linkedin.com/in/ilmlnk
-
-Facebook - facebook.com/ilmlnk
+1. Telegram - t.me/ilmlnk
+2. Instagram - instagram.com/ilmlnk
+3. LinkedIn - linkedin.com/in/ilmlnk
+4. Facebook - facebook.com/ilmlnk
 
 <!---
 ilmlnk/ilmlnk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
