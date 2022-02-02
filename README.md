@@ -1,13 +1,38 @@
-- 👋 Hi, I’m @ilmlnk
-- 👀 I’m interested in Machine Learning, Deep Learning, Artificial Intelligence, Data Science and Big Data.
-- 🌱 I’m currently learning Python, algorithms, Python libraries and modules such as NumPy, Scikit, SciPy, matplotlib, Java, Maven, Spring etc. 
-- 💞️ I’m looking to collaborate on companies which connected with Machine Learning, Robotic development or Big Data engineering.
-- 📫 How to reach me:
-Instagram: @ilmlnk
-E-mail: ilmlnkcorp@gmail.com
-Telegram: t.me/ilmlnk
-Facebook: Illia Melnyk
-Twitter" @i_originality
+# Hello! I am Illia!😁🤙
+
+
+# 🔎 Overview
+
+I am an aspiring Java Developer and I am very interested in gaining my first experience and skills in this field. Have strong analytical, mathematical and problem-solving skills along with motivation to learn and gain knowledge. In addition, I am interested in Data Science and Big Data Development. Have advanced soft-skills and have experience in team work.
+
+Open to alternative ways like an internship, trainee position, probation etc.
+
+
+# 💻 Technology Stack
+
+1. Java 8, Java Core, JavaFX, JDBC, OOP;
+2. SQL (MySQL, PostgreSQL);
+3. Spring, Maven;
+4. Git (GitHub), Linux;
+
+Have basic experience with Python and libraries (pandas, numpy), C/C++, Tableau, HTML/CSS.
+Have intermediate knowledge of data structures and algorithms.
+
+
+# 📑 Other Skills
+
+1. English (B2) - Upper-Intermediate
+2. Polish (B1) - Pre-Intermediate
+3. Russian (C1) - Advanced
+4. Ukrainian (C1) - Advanced
+
+
+# 📱 Contacts
+
+Telegram - t.me/ilmlnk
+Instagram - instagram.com/ilmlnk
+LinkedIn - linkedin.com/in/ilmlnk
+Facebook - facebook.com/ilmlnk
 
 <!---
 ilmlnk/ilmlnk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
