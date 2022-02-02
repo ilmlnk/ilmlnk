@@ -30,8 +30,11 @@ Have intermediate knowledge of data structures and algorithms.
 # 📱 Contacts
 
 Telegram - t.me/ilmlnk
+
 Instagram - instagram.com/ilmlnk
+
 LinkedIn - linkedin.com/in/ilmlnk
+
 Facebook - facebook.com/ilmlnk
 
 <!---
