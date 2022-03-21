@@ -1,6 +1,6 @@
 # Hello! I am Illia!😁🤙
 
-I am an 18-year-old student of Odesa National Polytechnic University and I am currently the Java Camp 2.0 participant at Sigma Software.
+I am a 19-year-old student of Odesa National Polytechnic University and I am currently the Java Camp 2.0 participant at Sigma Software.
 
 # 🔎 Overview
 
