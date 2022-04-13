@@ -24,9 +24,8 @@ Have intermediate knowledge of data structures and algorithms.
 
 1. English (B2) - Upper-Intermediate
 2. Polish (B1) - Pre-Intermediate
-3. Russian (C1) - Advanced
-4. Ukrainian (C1) - Advanced
-
+3. Ukrainian - Native
+4. Russian - Native
 
 # 📱 Contacts
 
@@ -37,7 +36,7 @@ Have intermediate knowledge of data structures and algorithms.
 
 # 📄 CV
 
-Link: http://surl.li/bgwxo
+Link: https://cutt.ly/0FII6ZS
 <!---
 ilmlnk/ilmlnk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
