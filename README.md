@@ -11,12 +11,13 @@ Open to alternative ways like an internship, trainee position, probation etc.
 
 # 💻 Technology Stack
 
-1. Java 8, Java Core, JavaFX, JDBC, OOP;
+1. Java Core, JavaFX, JDBC, OOP;
 2. SQL (MySQL, PostgreSQL);
-3. Spring, Maven, XML;
-4. Git (GitHub), Linux;
+3. Spring, Maven, Mockito, JUnit;
+4. Git (GitHub);
+5. Linux;
 
-Have basic experience with Python and libraries (pandas, numpy), C/C++, Tableau, HTML/CSS.
+Have basic experience with Python and libraries (pandas, numpy), C/C++, HTML/CSS.
 Have intermediate knowledge of data structures and algorithms.
 
 
