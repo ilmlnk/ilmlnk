@@ -4,29 +4,30 @@ I am a 19-year-old student of Odesa National Polytechnic University and I am cur
 
 # 🔎 Overview
 
-I am an aspiring Java Developer and I am very interested in gaining my first experience and skills in this field. Have strong analytical, mathematical and problem-solving skills along with motivation to learn and gain knowledge. In addition, I am interested in Data Science and Big Data Development. Have advanced soft-skills and have experience in team work.
+I am an aspiring Java Developer and I am very interested in gaining my first experience and skills in this field. Have strong analytical, mathematical and problem-solving skills along with motivation to learn and gain knowledge. Have advanced soft-skills and have experience in team work.
 
 Open to alternative ways like an internship, trainee position, probation etc.
 
 
 # 💻 Technology Stack
 
-1. Java Core, JavaFX, JDBC, OOP;
-2. SQL (MySQL, PostgreSQL);
-3. Spring, Maven, Mockito, JUnit;
-4. Git (GitHub);
-5. Linux;
+- Java Core;
+- SQL (MySQL, SQLite), JDBC;
+- Hibernate, Liquibase;
+- JavaFX;
+- Spring, Maven/Gradle, Mockito, JUnit;
+- HTML/CSS/JS;
+- Linux.
 
-Have basic experience with Python and libraries (pandas, numpy), C/C++, HTML/CSS.
 Have intermediate knowledge of data structures and algorithms.
 
 
 # 📑 Other Skills
 
-1. English (B2) - Upper-Intermediate
+1. English (B1+) - Intermediate
 2. Polish (B1) - Pre-Intermediate
 3. Ukrainian - Native
-4. Russian - Native
+4. Russian - C1
 
 # 📱 Contacts
 
