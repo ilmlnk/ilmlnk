@@ -38,7 +38,7 @@ Have intermediate knowledge of data structures and algorithms.
 
 # 📄 CV
 
-Link: https://cutt.ly/0FII6ZS
+Link: https://cutt.ly/DNyBItH
 <!---
 ilmlnk/ilmlnk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
