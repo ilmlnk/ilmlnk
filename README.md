@@ -1,6 +1,6 @@
 # Hello! I am Illia!😁🤙
 
-I am a 19-year-old student of Odesa National Polytechnic University and I am currently in the process of looking for a job.
+I am a third-year student of Odesa National Polytechnic University and I am currently in the process of looking for a job.
 
 # 🔎 Overview
 
