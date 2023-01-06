@@ -14,6 +14,7 @@ Open to alternative ways like an internship, trainee position, probation etc.
 - C#;
 - Entity Framework, .NET (ASP.NET)
 - UWP, Windows Forms;
+- XUnit;
 - Java Core;
 - SQL (MySQL, PostgreSQL);
 - Hibernate, Liquibase;
