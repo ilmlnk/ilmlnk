@@ -28,7 +28,7 @@ Have intermediate knowledge of data structures and algorithms.
 # 📑 Other Skills
 
 1. English (B2) - Upper-Intermediate;
-2. Polish (B1) - Pre-Intermediate;
+2. Polish (B2) - Upper-Intermediate;
 3. Ukrainian - Native;
 4. Russian (C1) - Advanced.
 
