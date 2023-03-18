@@ -12,16 +12,19 @@ Open to alternative ways like an internship, trainee position, probation etc.
 # 💻 Technology Stack
 
 - C#;
-- Entity Framework, .NET (ASP.NET)
-- UWP, Windows Forms;
+- Entity Framework Core;
+- ASP.NET Core MVC;
+- SignalR;
 - XUnit;
+- React.JS
+- SQL (MS SQL, PostgreSQL);
+- Linux.
+
+Have a previous experience in developing applications using:
 - Java Core;
-- SQL (MySQL, PostgreSQL);
 - Hibernate, Liquibase;
 - JavaFX;
 - Spring, Maven/Gradle, Mockito, JUnit;
-- HTML/CSS/JS;
-- Linux.
 
 Have intermediate knowledge of data structures and algorithms.
 
