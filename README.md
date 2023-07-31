@@ -1,37 +1,34 @@
 # Hello! I am Illia!😁🤙
 
-I am a third-year student of Odesa National Polytechnic University and I am currently in the process of looking for a job.
+Entrepreneur, Software Engineer, Social Media Marketer.
+Student of Poznań University of Science and Technology in the field of Engineering Management.
 
 # 🔎 Overview
 
-I am an aspiring C#/.NET Developer and I am very interested in gaining my first commercial experience and skills in software engineering. I am passionate about creating/analyzing new products that make common tasks for most people easier. In addition, I really appreciate teamwork on a project, when everyone is working on the result and doing everything possible to do the job better and more efficiently. 
-
-Open to alternative ways like an internship, trainee position, probation etc.
-
+I am C#/.NET Junior Software Developer. I am passionate about creating/analyzing new products that make common tasks for most people easier. In addition, I really appreciate teamwork on a project, when everyone is working on the result and doing everything possible to do the job better and more efficiently. 
 
 # 💻 Technology Stack
 
 - C#;
-- Entity Framework Core;
-- ASP.NET Core MVC;
-- SignalR;
-- XUnit;
-- React.JS
+- ASP.NET, SignalR;
+- xUnit;
+- Next.js, React.js;
+- Jest for unit-testing of Front-end parts;
+- UI Libraries: Chakra UI, Material UI;
 - SQL (MS SQL, PostgreSQL);
-- Linux.
+- Linux, Windows.
 
 Have a previous experience in developing applications using:
 - Java Core;
 - Hibernate, Liquibase;
 - JavaFX;
-- Spring, Maven/Gradle, Mockito, JUnit;
+- Spring, Maven/Gradle, Mockito, JUnit.
 
 Have intermediate knowledge of data structures and algorithms.
 
-
 # 📑 Other Skills
 
-1. English (B2) - Upper-Intermediate;
+1. English (B1+) - Strong Intermediate;
 2. Polish (B2) - Upper-Intermediate;
 3. Ukrainian - Native;
 4. Russian (C1) - Advanced.
@@ -42,10 +39,6 @@ Have intermediate knowledge of data structures and algorithms.
 2. Instagram - instagram.com/ilmlnk
 3. LinkedIn - linkedin.com/in/ilmlnk
 4. Facebook - facebook.com/ilmlnk
-
-# 📄 CV
-
-Link: [https://cutt.ly/DNyBItH](https://cutt.ly/t08AlOe)
 <!---
 ilmlnk/ilmlnk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
