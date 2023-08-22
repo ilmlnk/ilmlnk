@@ -40,7 +40,7 @@ Have intermediate knowledge of data structures and algorithms.
 4. Facebook - facebook.com/ilmlnk
 
 # 📄 CV
-(Link)[https://drive.google.com/file/d/1E3UwlKW4VYYTbpf4Ilh5KYDQj-69vhTi/view?usp=sharing]
+[Link](https://drive.google.com/file/d/1E3UwlKW4VYYTbpf4Ilh5KYDQj-69vhTi/view?usp=sharing)
 <!---
 ilmlnk/ilmlnk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
