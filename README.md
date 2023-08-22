@@ -34,11 +34,13 @@ Have intermediate knowledge of data structures and algorithms.
 4. Russian (C1) - Advanced.
 
 # 📱 Contacts
-
 1. Telegram - t.me/ilmlnk
 2. Instagram - instagram.com/ilmlnk
 3. LinkedIn - linkedin.com/in/ilmlnk
 4. Facebook - facebook.com/ilmlnk
+
+# 📄 CV
+(Link)[https://drive.google.com/file/d/1E3UwlKW4VYYTbpf4Ilh5KYDQj-69vhTi/view?usp=sharing]
 <!---
 ilmlnk/ilmlnk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
