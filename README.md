@@ -5,7 +5,7 @@ Student of Poznań University of Science and Technology in the field of Engineer
 
 # 🔎 Overview
 
-I am C#/.NET Junior Software Developer. I am passionate about creating/analyzing new products that make common tasks for most people easier. In addition, I really appreciate teamwork on a project, when everyone is working on the result and doing everything possible to do the job better and more efficiently. 
+I am C#/.NET Software Developer. I am passionate about creating/analyzing new products that make common tasks for most people easier. In addition, I really appreciate teamwork on a project, when everyone is working on the result and doing everything possible to do the job better and more efficiently. 
 
 # 💻 Technology Stack
 
