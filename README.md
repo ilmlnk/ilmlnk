@@ -10,6 +10,10 @@ I am C#/.NET Software Developer. I am passionate about creating/analyzing new pr
 # 💻 Technology Stack
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 - ASP.NET, SignalR;
 - xUnit;
@@ -39,6 +43,8 @@ Have intermediate knowledge of data structures and algorithms.
 2. Instagram - instagram.com/ilmlnk
 3. Facebook - facebook.com/ilmlnk
 
+# My Overall Statistics
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilmlnk&theme=dark)
 <!---
 ilmlnk/ilmlnk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
