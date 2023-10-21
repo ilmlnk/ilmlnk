@@ -57,6 +57,8 @@ Have a previous experience in developing applications using:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ilmlnk)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ilmlnk)
 
+---
+
 # 📊 My Overall Statistics
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilmlnk&theme=dark)
 
