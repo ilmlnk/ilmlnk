@@ -52,6 +52,8 @@ Have a previous experience in developing applications using:
 3. Ukrainian - Native;
 4. Russian (C1) - Advanced.
 
+---
+
 # 📱 Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ilmlnk)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ilmlnk)
