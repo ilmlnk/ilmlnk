@@ -36,8 +36,7 @@ Have intermediate knowledge of data structures and algorithms.
 # 📱 Contacts
 1. Telegram - t.me/ilmlnk
 2. Instagram - instagram.com/ilmlnk
-3. LinkedIn - linkedin.com/in/ilmlnk
-4. Facebook - facebook.com/ilmlnk
+3. Facebook - facebook.com/ilmlnk
 
 <!---
 ilmlnk/ilmlnk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
