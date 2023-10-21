@@ -1,4 +1,6 @@
-# Hello! I am Illia!😁🤙
+<div>
+  <h1 align="center">Hello! I am Illia!</h1>
+</div>
 
 Entrepreneur, Software Engineer.
 Student of Poznań University of Science and Technology in the field of Engineering Management.
