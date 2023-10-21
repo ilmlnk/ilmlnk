@@ -1,7 +1,5 @@
 ![](https://github.com/ilmlnk/ilmlnk/blob/main/image_cover.png)
 
----
-
 # 🔎 Overview
 
 Entrepreneur, Software Engineer, Motivator.
