@@ -47,9 +47,9 @@ Have a previous experience in developing applications using:
 4. Russian (C1) - Advanced.
 
 # 📱 Contacts
-1. Telegram - t.me/ilmlnk
-2. Instagram - instagram.com/ilmlnk
-3. Facebook - facebook.com/ilmlnk
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ilmlnk)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ilmlnk)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ilmlnk)
 
 # My Overall Statistics
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilmlnk&theme=dark)
