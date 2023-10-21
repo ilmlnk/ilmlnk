@@ -40,9 +40,6 @@ Have a previous experience in developing applications using:
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
-
-Have intermediate knowledge of data structures and algorithms.
-
 # 📑 Other Skills
 
 1. English (B2) - Upper-Intermediate;
