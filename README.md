@@ -3,9 +3,13 @@
 Entrepreneur, Software Engineer.
 Student of Poznań University of Science and Technology in the field of Engineering Management.
 
+---
+
 # 🔎 Overview
 
 I am C#/.NET Software Developer. I am passionate about creating/analyzing new products that make common tasks for most people easier. In addition, I really appreciate teamwork on a project, when everyone is working on the result and doing everything possible to do the job better and more efficiently. 
+
+---
 
 # 💻 Technology Stack
 
@@ -26,8 +30,6 @@ I am C#/.NET Software Developer. I am passionate about creating/analyzing new pr
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
----
-
 ## ⚒️ Other Tools 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
@@ -41,7 +43,9 @@ Have a previous experience in developing applications using:
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
-# 📑 Other Skills
+---
+
+# 📑 Languages
 
 1. English (B2) - Upper-Intermediate;
 2. Polish (B2) - Upper-Intermediate;
