@@ -1,6 +1,6 @@
 # Hello! I am Illia!😁🤙
 
-Entrepreneur, Software Engineer, Social Media Marketer.
+Entrepreneur, Software Engineer.
 Student of Poznań University of Science and Technology in the field of Engineering Management.
 
 # 🔎 Overview
