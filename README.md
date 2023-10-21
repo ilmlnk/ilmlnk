@@ -53,6 +53,8 @@ Have a previous experience in developing applications using:
 
 # My Overall Statistics
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilmlnk&theme=dark)
+
+![](https://visitcount.itsvg.in/api?id=ilmlnk&icon=5&color=1)
 <!---
 ilmlnk/ilmlnk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
