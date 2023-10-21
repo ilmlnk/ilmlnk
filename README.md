@@ -1,4 +1,4 @@
-<div>
+<div color="#444444">
   <h1 align="center">Hello! I am Illia!</h1>
 </div>
 
