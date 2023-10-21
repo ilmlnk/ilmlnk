@@ -22,11 +22,11 @@ I am C#/.NET Software Developer. I am passionate about creating/analyzing new pr
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## Ui Libraries
+## 🎨 UI Libraries
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
-## Other Tools 
+## ⚒️ Other Tools 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 
@@ -51,7 +51,7 @@ Have a previous experience in developing applications using:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ilmlnk)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ilmlnk)
 
-# My Overall Statistics
+# 📊 My Overall Statistics
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilmlnk&theme=dark)
 
 ![](https://visitcount.itsvg.in/api?id=ilmlnk&icon=5&color=1)
