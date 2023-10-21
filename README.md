@@ -9,6 +9,8 @@ I am C#/.NET Software Developer. I am passionate about creating/analyzing new pr
 
 # 💻 Technology Stack
 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 - C#;
 - ASP.NET, SignalR;
 - xUnit;
