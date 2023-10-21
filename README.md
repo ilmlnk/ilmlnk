@@ -1,6 +1,4 @@
-<div color="#444444">
-  <h1 align="center">Hello! I am Illia!</h1>
-</div>
+[](https://github.com/ilmlnk/ilmlnk/tree/main/blob/image_cover.png)
 
 Entrepreneur, Software Engineer.
 Student of Poznań University of Science and Technology in the field of Engineering Management.
