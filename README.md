@@ -1,4 +1,4 @@
-![](https://github.com/ilmlnk/ilmlnk/image_cover.png)
+![](https://github.com/ilmlnk/ilmlnk/blob/main/image_cover.png)
 
 Entrepreneur, Software Engineer.
 Student of Poznań University of Science and Technology in the field of Engineering Management.
