@@ -5,7 +5,7 @@
 Entrepreneur, Software Engineer, Motivator.
 Student of Poznań University of Science and Technology in the field of Engineering Management.
 
-> I am a reliable person with a commercial experience in software development. Have advanced communication and organizational skills. A team player with attention to details. __Illia Melnyk__
+> I am a reliable person with a commercial experience in software development. Have advanced communication and organizational skills. A team player with attention to details. *Illia Melnyk*
 
 
 
