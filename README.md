@@ -5,7 +5,7 @@
 Entrepreneur, Software Engineer, Motivator.
 Student of Poznań University of Science and Technology in the field of Engineering Management.
 
-I am passionate about creating/analyzing new products that make common tasks for most people easier. In addition, I really appreciate teamwork on a project, when everyone is working on the result and doing everything possible to do the job better and more efficiently. 
+I am a reliable person with a commercial experience in software development. Have advanced communication and organizational skills. A team player with attention to details.
 
 
 
