@@ -8,8 +8,8 @@ Student of Poznań University of Science and Technology in the field of Engineer
 I am passionate about creating/analyzing new products that make common tasks for most people easier. In addition, I really appreciate teamwork on a project, when everyone is working on the result and doing everything possible to do the job better and more efficiently. 
 
 
-### 💻 Technology Stack
 
+### 💻 Technology Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -25,6 +25,7 @@ I am passionate about creating/analyzing new products that make common tasks for
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
 ### 🎨 UI Libraries
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
@@ -43,6 +44,8 @@ Have a previous experience in developing applications using:
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
+
+
 ### 📑 Languages
 
 1. English (B2) - Upper-Intermediate;
@@ -50,10 +53,14 @@ Have a previous experience in developing applications using:
 3. Ukrainian - Native;
 4. Russian (C1) - Advanced.
 
+
+
 ### 📱 Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ilmlnk)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ilmlnk)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ilmlnk)
+
+
 
 ### 📊 My Overall Statistics
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilmlnk&theme=dark)
