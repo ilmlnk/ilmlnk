@@ -55,8 +55,7 @@ Have a previous experience in developing applications using:
 1. English (B2) - Upper-Intermediate;
 2. Polish (C1) - Advanced;
 3. Ukrainian - Native;
-4. Russian (C1) - Advanced.
-
+4. German (A2) - Pre-Intermediate.
 
 
 ### 📱 Contacts
